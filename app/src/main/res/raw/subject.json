@@ -1,0 +1,42 @@
+[
+  {
+    "name":"Toán",
+    "icon":"ic_math",
+    "src_exam":"ex_math"
+  },
+  {
+    "name":"Vật Lý",
+    "icon":"ic_physical",
+    "src_exam":"ex_physical"
+  },
+  {
+    "name":"Hóa Học",
+    "icon":"ic_chemical",
+    "src_exam":"ex_chemical"
+  },
+  {
+    "name":"Sinh Học",
+    "icon":"ic_biological",
+    "src_exam":"ex_biological"
+  },
+  {
+    "name":"Lịch Sử",
+    "icon":"ic_historical",
+    "src_exam":"ex_historical"
+  },
+  {
+    "name":"Địa Lý",
+    "icon":"ic_geography",
+    "src_exam":"ex_geography"
+  },
+  {
+    "name":"Giáo Dục Công Dân",
+    "icon":"ic_law",
+    "src_exam":"ex_law"
+  },
+  {
+  "name":"Tiếng Anh",
+  "icon":"ic_english",
+  "src_exam":"ex_english"
+}
+]

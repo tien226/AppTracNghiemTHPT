@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin">
+
+    <TextView
+        android:id="@+id/tvExamTitle"
+        android:gravity="center"
+        android:text="Bộ đề ôn tập THPT"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textColor="@color/red"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24sp"/>
+
+    <TextView
+        android:id="@+id/tvExamName"
+        android:layout_margin="@dimen/margin_medium"
+        android:gravity="center"
+        tools:text="Môn: TOÁN"
+        android:textColor="@color/red"
+        android:textStyle="bold|italic"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="@dimen/margin_medium"
+        android:id="@+id/recycler_exam"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

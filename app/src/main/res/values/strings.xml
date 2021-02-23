@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppOnThiTHPT</string>
+    <string name="close">Đóng</string>
+    <string name="open">Mở</string>
+    <string name="subject">Môn học</string>
+    <string name="notification">Thông Báo</string>
+    <string name="end_quiz">Kết thúc</string>
+    <string name="btn_return">Trở về</string>
+    <string name="warning_title">Cảnh Báo Thoát</string>
+    <string name="warning_message">Nếu bạn bấm Đồng Ý,\nBạn sẽ được chuyển đến màn hình thông báo kết quả và không thể trả lời tiếp</string>
+    <string name="message_confirm">Bạn có thực sự muốn kết thúc bài thi?</string>
+    <string name="ok">Đồng ý</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="corect">Đúng</string>
+    <string name="incorect">Sai</string>
+    <string name="un_choice">Chưa trả lời</string>
+    <string name="warning_time_up">Hết Thời Gian!</string>
+    <string name="time_up_message">Đã hết thời gian làm bài.\nBấm Đồng Ý, \nĐể chuyển đến màn hình xem kết quả</string>
+    <string name="title_quiz_ques">Phiếu Trả Lời</string>
+    <string name="title_quiz_result">Phiếu Kết Quả</string>
+</resources>

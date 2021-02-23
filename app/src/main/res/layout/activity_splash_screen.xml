@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".Activity.SplashScreenActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:id="@+id/first_line"
+            android:layout_width="20sp"
+            android:layout_height="50sp"
+            android:background="@drawable/black_line"
+            android:layout_centerHorizontal="true"/>
+
+        <View
+            android:id="@+id/second_line"
+            android:layout_width="20sp"
+            android:layout_height="100sp"
+            android:layout_marginLeft="8sp"
+            android:background="@drawable/red_line"
+            android:layout_toRightOf="@+id/first_line"/>
+
+        <View
+            android:id="@+id/third_line"
+            android:layout_width="20sp"
+            android:layout_height="250sp"
+            android:layout_marginLeft="8sp"
+            android:background="@drawable/black_line"
+            android:layout_toRightOf="@+id/second_line"/>
+
+        <View
+            android:id="@+id/fourth_line"
+            android:layout_width="20sp"
+            android:layout_height="200sp"
+            android:layout_marginLeft="8sp"
+            android:background="@drawable/red_line"
+            android:layout_toRightOf="@+id/third_line"/>
+
+        <View
+            android:id="@+id/fifth_line"
+            android:layout_width="20sp"
+            android:layout_height="220sp"
+            android:layout_marginLeft="8sp"
+            android:background="@drawable/green_line"
+            android:layout_toRightOf="@+id/fourth_line"/>
+
+        <View
+            android:id="@+id/sixth_line"
+            android:layout_width="20sp"
+            android:layout_height="150sp"
+            android:layout_marginLeft="8sp"
+            android:background="@drawable/white_line"
+            android:layout_toRightOf="@+id/fifth_line"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="8sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imglogo_SS"
+            android:src="@drawable/logo_app"
+            android:layout_width="match_parent"
+            android:layout_height="240sp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_marginTop="100sp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom">
+
+            <TextView
+                android:id="@+id/tvtext_SS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="App Ôn Tập Trắc Nghiệm THPT"
+                android:textSize="24sp"
+                android:textColor="#1f1f1d"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="48sp"
+                android:fontFamily="cursive"/>
+        </RelativeLayout>
+
+        <ProgressBar
+            android:layout_width="220dp"
+            android:layout_height="16dp"
+            android:layout_gravity="center_horizontal"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:max="100"
+            android:indeterminate="true"
+            android:progress="0" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
