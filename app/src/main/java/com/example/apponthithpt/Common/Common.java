@@ -98,7 +98,7 @@ public class Common {
                 Common.unixTimeToDate(highScores.get(position).mDate),
                 Common.unixTimeToTime(highScores.get(position).mDate)));
         TextView tvSExam = dialog.findViewById(R.id.tvSExam);
-        tvSExam.setText(String.format(Locale.getDefault(), "Đề số: %d", highScores.get(position).mExamNum) + "(" +(highScores.get(position).mSumQues) +" câu)");
+        tvSExam.setText(String.format(Locale.getDefault(), "Đề số: %d", highScores.get(position).mExamNum) + " (" +(highScores.get(position).mSumQues) +" câu)");
         TextView tvSTrue = dialog.findViewById(R.id.tvSTrue);
         tvSTrue.setText(String.format(Locale.getDefault(), "Đúng: %d", highScores.get(position).mCorrect));
         TextView tvSFalse = dialog.findViewById(R.id.tvSFalse);

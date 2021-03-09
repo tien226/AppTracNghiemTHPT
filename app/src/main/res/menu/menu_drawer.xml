@@ -14,7 +14,7 @@
             android:icon="@drawable/ic_scoreboard"/>
         <item
             android:id="@+id/nav_infoapp"
-            android:title="Thông Tin"
+            android:title="Về Chúng Tôi"
             android:icon="@drawable/ic_infoapp"/>
     </group>
 

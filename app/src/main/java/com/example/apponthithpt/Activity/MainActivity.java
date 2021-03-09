@@ -58,18 +58,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             navigationView.setCheckedItem(R.id.nav_home);
         }
 
-        //notification app
-        creatNotificationChannel();
-
-        Intent intent = new Intent(getApplicationContext(), AlarmReceiver.class);
-        PendingIntent pendingIntent = PendingIntent.getBroadcast(getApplicationContext(), 0, intent, 0);
-
-        AlarmManager alarmManager = (AlarmManager) getSystemService(ALARM_SERVICE);
-
-        long tenSecondsMillis = 1000 * 5;
-        alarmManager.set(AlarmManager.RTC_WAKEUP, System.currentTimeMillis() + tenSecondsMillis, pendingIntent);
-
-
     }
 
     @Override

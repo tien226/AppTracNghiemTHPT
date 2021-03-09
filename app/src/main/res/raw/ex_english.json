@@ -4,256 +4,2083 @@
     "exam_num": 1,
     "time": 60,
     "questions": [
-      {"ques":"There is no use persuading her to join us because her parents_______ her to return home after the\nlast game _________ over.",
-        "ans_a":"had told/was",
-        "ans_b":"have told/is",
-        "ans_c":"told/had been",
-        "ans_d": "tell/has been", "ans_true": 2},
-      {"ques":"If anyone ________, tell them I'm not at home.",
-        "ans_a":"call",
-        "ans_b":"calls",
-        "ans_c":"called",
-        "ans_d": "should call", "ans_true": 2},
-      {"ques":"All the applicants for the post are thoroughly ________ for their suitability",
-        "ans_a":"searched",
-        "ans_b":"vetted",
-        "ans_c":"investigated",
-        "ans_d": "scrutinized", "ans_true": 2},
-      {"ques":"They knew that it was just not feasible ______ such a small firm to compete with the big boys",
-        "ans_a":"in",
-        "ans_b":"at",
-        "ans_c":"for",
-        "ans_d": "about", "ans_true": 3},
-      {"ques":"If we lose the case we may be _______________ for the costs of the whole trial",
-        "ans_a":"compatible",
-        "ans_b":"liable",
-        "ans_c":"available",
-        "ans_d": "accessible", "ans_true": 2},
-      {"ques":"_________ is someone who can reduce spending without hurting morale",
-        "ans_a":"What is needed",
-        "ans_b":"What needs",
-        "ans_c":"Being needed",
-        "ans_d": "That needs", "ans_true": 1},
-      {"ques":"We were so looking forward to stretching out on the beach in the sunshine, but it ____________\nthe whole time we were there",
-        "ans_a":"poured with rain",
-        "ans_b":"rained dogs and cats",
-        "ans_c":"dropped in the bucket",
-        "ans_d": "made hay while the sun shined", "ans_true": 1},
-      {"ques":"She made as if ____________ but then stopped.",
-        "ans_a":"to speak",
-        "ans_b":"speaking",
-        "ans_c":"spoken",
-        "ans_d": "speak", "ans_true": 1},
-      {"ques":"____________ the ability to delay normal cognitive decline as we age, there are significant\nsocial benefits to lifelong learning",
-        "ans_a":"Aside from",
-        "ans_b":"In addition",
-        "ans_c":"Moreover",
-        "ans_d": "Furthermore", "ans_true": 1},
-      {"ques":"_________ massage relieves pain and anxiety, eases depression and speeds up recovery from medical problems",
-        "ans_a":"a",
-        "ans_b":"the",
-        "ans_c":"0",
-        "ans_d": "some", "ans_true": 3},
-      {"ques":"Since the situation was so bad, she should _________ care of much earlier",
-        "ans_a":"have taken",
-        "ans_b":"have been taken",
-        "ans_c":"be taken",
-        "ans_d": "take", "ans_true": 2},
-      {"ques":"The committee is _______ of well-known mountaineers",
-        "ans_a":"contained",
-        "ans_b":"comprised",
-        "ans_c":"included",
-        "ans_d": "consisted", "ans_true": 2},
-      {"ques":"It is desirable that the hotel manager remember to call the __________ staff every 6 months to\nclean up the air conditioners",
-        "ans_a":"maintaining",
-        "ans_b":"maintain",
-        "ans_c":"maintainable",
-        "ans_d": "maintenance", "ans_true": 4},
-      {"ques":"He made all sorts of beautiful plans for his tour without taking into consideration the possibility\n________ an entry visa",
-        "ans_a":"of refusing",
-        "ans_b":"of being refused",
-        "ans_c":"of refusal of",
-        "ans_d": "to be refused", "ans_true": 2},
-      {"ques":"We live in a world. Immediate and easy access to information is a standard expectation there",
-        "ans_a":"Immediate and easy access to information in the world we live in is a standard expectation",
-        "ans_b":"Immediate and easy access to information is expected to be standardized in the world we live in",
-        "ans_c":"People living in this world expect that immediate and easy access to information is a standard",
-        "ans_d": "It is expected that immediate and easy access to information in the world we live in is a standard", "ans_true": 1},
-      {"ques":"Urban population grows and the effects of climate change worsen. Therefore, our cities have to adapt",
-        "ans_a":"Our cities have to adapt if urban population grows and the effects of climate change worsen",
-        "ans_b":"As the urban population grows and the effects of climate change worsen, our cities have to adapt",
-        "ans_c":"Our cities are always adaptive to urban population growth and the effects of climate changes",
-        "ans_d": "Urban population growth and effects of climate changes are worsening, which make our cities more adaptive", "ans_true": 2},
-      {"ques":"Thanks to lifelong learning, people's level of awareness ____________ significantly",
-        "ans_a":"has improved",
-        "ans_b":"have improved",
-        "ans_c":"has been improved",
-        "ans_d": "have been improved", "ans_true": 1},
-      {"ques":"A generation gap or generational gap, is a difference ____ opinions between one generation and\nanother regarding beliefs, politics, or values",
-        "ans_a":"in",
-        "ans_b":"between",
-        "ans_c":"of",
-        "ans_d": "among", "ans_true": 3},
-      {"ques":"A new TV show has sparked ________ by showing the positive side of dropping out of college",
-        "ans_a":"controversy",
-        "ans_b":"argument",
-        "ans_c":"contention",
-        "ans_d": "debate", "ans_true": 1},
-      {"ques":"Singapore is a ____ example of a smart city, and is constantly evolving its \"city brain, \"a backbone\nof technologies is used to help control pollution, monitor traffic, allocate parking, communicate with\ncitizens",
-        "ans_a":"lead",
-        "ans_b":"leading",
-        "ans_c":"led",
-        "ans_d": "leader", "ans_true": 2},
-      {"ques":"Despite the tough _______ in the sector, our little store managed to break _________ its first year\nin operation",
-        "ans_a":"contest/level",
-        "ans_b":"competition/equal",
-        "ans_c":"competition/even",
-        "ans_d": "opposition/equal", "ans_true": 3},
-      {"ques":"Under this high-pressure and competitive environment, it is ____ a balanced lifestyle",
-        "ans_a":"difficult for people to achieve",
-        "ans_b":"difficult to achieve for people",
-        "ans_c":"for people to achieve difficult",
-        "ans_d": "for difficult people to achieve", "ans_true": 1},
-      {"ques":"This ticket ____ you to a free meal in our new restaurant",
-        "ans_a":"allows",
-        "ans_b":"grants",
-        "ans_c":"entitles",
-        "ans_d": "credits", "ans_true": 3},
-      {"ques":"____ as it was at such a time, his work attracted much attention",
-        "ans_a":"Being published",
-        "ans_b":"Published",
-        "ans_c":"Publishing",
-        "ans_d": "to be published", "ans_true": 2},
-      {"ques":"It can be argued that the future of human life on the planet rests on ____ smooth transition to\ncities that are more efficient and less wasteful",
-        "ans_a":"a",
-        "ans_b":"an",
-        "ans_c":"the",
-        "ans_d": "no article", "ans_true": 1},
-      {"ques":"I wish you ____ throw rubbish out of the car window",
-        "ans_a":"won't",
-        "ans_b":"wouldn't",
-        "ans_c":"didn't",
-        "ans_d": "couldn't", "ans_true": 2},
-      {"ques":"Sarah’s friends all had brothers and sisters but she was a (n) _____ child",
-        "ans_a":"singular",
-        "ans_b":"individual",
-        "ans_c":"single",
-        "ans_d": "only", "ans_true": 4},
-      {"ques":"The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather,\nloved ____ of ourselves",
-        "ans_a":"regardless",
-        "ans_b":"in spite",
-        "ans_c":"in case",
-        "ans_d": "instead", "ans_true": 2},
-      {"ques":"Being independent is a mixture of many things from teaching yourself new things to ____ on an\nadventure all on your own",
-        "ans_a":"to embark",
-        "ans_b":"taking",
-        "ans_c":"embarking",
-        "ans_d": "embarked", "ans_true": 3},
-      {"ques":"Ian has no difficulty in ____ into use the perfect plans his friends have prepared for him",
-        "ans_a":"lending",
-        "ans_b":"taking",
-        "ans_c":"putting",
-        "ans_d": "heading", "ans_true": 3},
-      {"ques":"With 1960 islands in different sizes and an unbelievable smooth sea surface, Ha Long Bay\n________ its name to one of the worthiest places in the world to visit",
-        "ans_a":"writes",
-        "ans_b":"wrote",
-        "ans_c":"will write",
-        "ans_d": "has written", "ans_true": 4},
-      {"ques":"Lifelong learning can also help _______ some of the weaknesses of the education system",
-        "ans_a":"amend",
-        "ans_b":"repair",
-        "ans_c":"mend",
-        "ans_d": "adjust", "ans_true": 1},
-      {"ques":"Teachers’ _________ would rise an average of $1000 under the proposal",
-        "ans_a":"pensions",
-        "ans_b":"salaries",
-        "ans_c":"wages",
-        "ans_d": "incomes", "ans_true": 2},
-      {"ques":"She drinks a lot less now, to ____________ benefit of her health as a whole",
-        "ans_a":"a",
-        "ans_b":"an",
-        "ans_c":"0",
-        "ans_d": "the", "ans_true": 4},
-      {"ques":"_______ the institution type, in the United States, students typically earn credits for courses they\ntake and these credits count towards the completion of a program",
-        "ans_a":"According to",
-        "ans_b":"In regard to",
-        "ans_c":"Thanks to",
-        "ans_d": "Regardless of", "ans_true": 4},
-      {"ques":"Electronic devices are becoming ________ common in educational environment",
-        "ans_a":"increase",
-        "ans_b":"increasing",
-        "ans_c":"increasingly",
-        "ans_d": "increased", "ans_true": 3},
-      {"ques":"I hope you _______ the point of everything your mother and I do for you",
-        "ans_a":"annoy",
-        "ans_b":"have",
-        "ans_c":"see",
-        "ans_d": "take", "ans_true": 3},
-      {"ques":"Those in ____ of banning laptops in classrooms like to demonstrate how handwritten notes lead\nto better learning compared to notes taken on a computer",
-        "ans_a":"search",
-        "ans_b":"need",
-        "ans_c":"view",
-        "ans_d": "favor", "ans_true": 4},
-      {"ques":"Teachers can tell their students to use mobile apps like \"PIAZZA” to access course materials and\nalso to post questions about specific subjects, all _______ can be done in the classroom or outside the\nclassroom",
-        "ans_a":"this",
-        "ans_b":"what",
-        "ans_c":"which",
-        "ans_d": "how", "ans_true": 1},
-      {"ques":"The Heritage Education for Sustainable Development project aims ____ strengthening the\nlinkage between culture and education for sustainable development",
-        "ans_a":"to",
-        "ans_b":"for",
-        "ans_c":"at",
-        "ans_d": "by", "ans_true": 3},
-      {"ques":"____________, the bird may abandon the nest, leaving the chicks to die",
-        "ans_a":"If the birds are disturbed",
-        "ans_b":"If disturbed",
-        "ans_c":"If you disturbed the bird",
-        "ans_d": "Should the birds be disturbed", "ans_true": 2},
-      {"ques":"Volunteers may be required to obtain Red Cross _______ in order to serve through hospitals and\nhealthcare organizations or provide disaster relief",
-        "ans_a":"diploma",
-        "ans_b":"certification",
-        "ans_c":"license",
-        "ans_d": "degree", "ans_true": 2},
-      {"ques":"_______ with the internet, which is a system of linked computer networks, the worldwide web\nwas invented by British computer scientist Tim Berners-Lee",
-        "ans_a":"Not to confuse",
-        "ans_b":"Not to be confused",
-        "ans_c":"To be not confused",
-        "ans_d": "Confused not to be", "ans_true": 2},
-      {"ques":"It's time for us ____ in efficiency and renewable energy, rebuild our cities, towns, municipalities\nand states",
-        "ans_a":"to invest",
-        "ans_b":"invest",
-        "ans_c":"investing",
-        "ans_d": "invested", "ans_true": 1},
-      {"ques":"Why should we wait any longer? We’ve been told to act once we _________ the governor’s\npermission",
-        "ans_a":"received",
-        "ans_b":"will have received",
-        "ans_c":"have received",
-        "ans_d": "will receive", "ans_true": 3},
-      {"ques":"Don’t forget to ring me up if _________ any changes in the timetable",
-        "ans_a":"they are",
-        "ans_b":"it will be",
-        "ans_c":"there will be",
-        "ans_d": "there are", "ans_true": 4},
-      {"ques":"Of 30 countries inspected for airline safety, only 17 received a _________bill of health",
-        "ans_a":"clear",
-        "ans_b":"clean",
-        "ans_c":"pure",
-        "ans_d": "dirty", "ans_true": 2},
-      {"ques":"Solar power is ____________________ to become the world's largest source of electricity by\n2050",
-        "ans_a":"estimated",
-        "ans_b":"antedated",
-        "ans_c":"anticipated",
-        "ans_d": "awaited", "ans_true": 3},
-      {"ques":"The contract includes a 35-cent per hour increase in night shift ____________ pay",
-        "ans_a":"difference",
-        "ans_b":"different",
-        "ans_c":"differential",
-        "ans_d": "differentiate", "ans_true": 3},
-      {"ques":"Tom is always blowing his trumpet that he is a qualified electrician, but the truth is\nquite_______",
-        "ans_a":"or else",
-        "ans_b":"instead",
-        "ans_c":"though",
-        "ans_d": "otherwise", "ans_true": 4}
+      {
+        "ques": "There is no use persuading her to join us because her parents_______ her to return home after the\nlast game _________ over.",
+        "ans_a": "A. had told/was",
+        "ans_b": "B. have told/is",
+        "ans_c": "C. told/had been",
+        "ans_d": "D. tell/has been",
+        "ans_true": 2
+      },
+      {
+        "ques": "If anyone ________, tell them I'm not at home.",
+        "ans_a": "A. call",
+        "ans_b": "B. calls",
+        "ans_c": "C. called",
+        "ans_d": "D. should call",
+        "ans_true": 2
+      },
+      {
+        "ques": "All the applicants for the post are thoroughly ________ for their suitability",
+        "ans_a": "A. searched",
+        "ans_b": "B. vetted",
+        "ans_c": "C. investigated",
+        "ans_d": "D. scrutinized",
+        "ans_true": 2
+      },
+      {
+        "ques": "They knew that it was just not feasible ______ such a small firm to compete with the big boys",
+        "ans_a": "A. in",
+        "ans_b": "B. at",
+        "ans_c": "C. for",
+        "ans_d": "D. about",
+        "ans_true": 3
+      },
+      {
+        "ques": "If we lose the case we may be _______________ for the costs of the whole trial",
+        "ans_a": "A. compatible",
+        "ans_b": "B. liable",
+        "ans_c": "C. available",
+        "ans_d": "D. accessible",
+        "ans_true": 2
+      },
+      {
+        "ques": "_________ is someone who can reduce spending without hurting morale",
+        "ans_a": "A. What is needed",
+        "ans_b": "B. What needs",
+        "ans_c": "C. Being needed",
+        "ans_d": "D. That needs",
+        "ans_true": 1
+      },
+      {
+        "ques": "We were so looking forward to stretching out on the beach in the sunshine, but it ____________\nthe whole time we were there",
+        "ans_a": "A. poured with rain",
+        "ans_b": "B. rained dogs and cats",
+        "ans_c": "C. dropped in the bucket",
+        "ans_d": "D. made hay while the sun shined",
+        "ans_true": 1
+      },
+      {
+        "ques": "She made as if ____________ but then stopped.",
+        "ans_a": "A. to speak",
+        "ans_b": "B. speaking",
+        "ans_c": "C. spoken",
+        "ans_d": "D. speak",
+        "ans_true": 1
+      },
+      {
+        "ques": "____________ the ability to delay normal cognitive decline as we age, there are significant\nsocial benefits to lifelong learning",
+        "ans_a": "A. Aside from",
+        "ans_b": "B. In addition",
+        "ans_c": "C. Moreover",
+        "ans_d": "D. Furthermore",
+        "ans_true": 1
+      },
+      {
+        "ques": "_________ massage relieves pain and anxiety, eases depression and speeds up recovery from medical problems",
+        "ans_a": "A. a",
+        "ans_b": "B. the",
+        "ans_c": "C. 0",
+        "ans_d": "D. some",
+        "ans_true": 3
+      },
+      {
+        "ques": "Since the situation was so bad, she should _________ care of much earlier",
+        "ans_a": "A. have taken",
+        "ans_b": "B. have been taken",
+        "ans_c": "C. be taken",
+        "ans_d": "D. take",
+        "ans_true": 2
+      },
+      {
+        "ques": "The committee is _______ of well-known mountaineers",
+        "ans_a": "A. contained",
+        "ans_b": "B. comprised",
+        "ans_c": "C. included",
+        "ans_d": "D. consisted",
+        "ans_true": 2
+      },
+      {
+        "ques": "It is desirable that the hotel manager remember to call the __________ staff every 6 months to\nclean up the air conditioners",
+        "ans_a": "A. maintaining",
+        "ans_b": "B. maintain",
+        "ans_c": "C. maintainable",
+        "ans_d": "D. maintenance",
+        "ans_true": 4
+      },
+      {
+        "ques": "He made all sorts of beautiful plans for his tour without taking into consideration the possibility\n________ an entry visa",
+        "ans_a": "A. of refusing",
+        "ans_b": "B. of being refused",
+        "ans_c": "C. of refusal of",
+        "ans_d": "D. to be refused",
+        "ans_true": 2
+      },
+      {
+        "ques": "We live in a world. Immediate and easy access to information is a standard expectation there",
+        "ans_a": "A. Immediate and easy access to information in the world we live in is a standard expectation",
+        "ans_b": "B. Immediate and easy access to information is expected to be standardized in the world we live in",
+        "ans_c": "C. People living in this world expect that immediate and easy access to information is a standard",
+        "ans_d": "D. It is expected that immediate and easy access to information in the world we live in is a standard",
+        "ans_true": 1
+      },
+      {
+        "ques": "Urban population grows and the effects of climate change worsen. Therefore, our cities have to adapt",
+        "ans_a": "A. Our cities have to adapt if urban population grows and the effects of climate change worsen",
+        "ans_b": "B. As the urban population grows and the effects of climate change worsen, our cities have to adapt",
+        "ans_c": "C. Our cities are always adaptive to urban population growth and the effects of climate changes",
+        "ans_d": "D. Urban population growth and effects of climate changes are worsening, which make our cities more adaptive",
+        "ans_true": 2
+      },
+      {
+        "ques": "Thanks to lifelong learning, people's level of awareness ____________ significantly",
+        "ans_a": "A. has improved",
+        "ans_b": "B. have improved",
+        "ans_c": "C. has been improved",
+        "ans_d": "D. have been improved",
+        "ans_true": 1
+      },
+      {
+        "ques": "A generation gap or generational gap, is a difference ____ opinions between one generation and\nanother regarding beliefs, politics, or values",
+        "ans_a": "A. in",
+        "ans_b": "B. between",
+        "ans_c": "C. of",
+        "ans_d": "D. among",
+        "ans_true": 3
+      },
+      {
+        "ques": "A new TV show has sparked ________ by showing the positive side of dropping out of college",
+        "ans_a": "A. controversy",
+        "ans_b": "B. argument",
+        "ans_c": "C. contention",
+        "ans_d": "D. debate",
+        "ans_true": 1
+      },
+      {
+        "ques": "Singapore is a ____ example of a smart city, and is constantly evolving its \"city brain, \"a backbone\nof technologies is used to help control pollution, monitor traffic, allocate parking, communicate with\ncitizens",
+        "ans_a": "A. lead",
+        "ans_b": "B. leading",
+        "ans_c": "C. led",
+        "ans_d": "D. leader",
+        "ans_true": 2
+      },
+      {
+        "ques": "Despite the tough _______ in the sector, our little store managed to break _________ its first year\nin operation",
+        "ans_a": "A. contest/level",
+        "ans_b": "B. competition/equal",
+        "ans_c": "C. competition/even",
+        "ans_d": "D. opposition/equal",
+        "ans_true": 3
+      },
+      {
+        "ques": "Under this high-pressure and competitive environment, it is ____ a balanced lifestyle",
+        "ans_a": "A. difficult for people to achieve",
+        "ans_b": "B. difficult to achieve for people",
+        "ans_c": "C. for people to achieve difficult",
+        "ans_d": "D. for difficult people to achieve",
+        "ans_true": 1
+      },
+      {
+        "ques": "This ticket ____ you to a free meal in our new restaurant",
+        "ans_a": "A. allows",
+        "ans_b": "B. grants",
+        "ans_c": "C. entitles",
+        "ans_d": "D. credits",
+        "ans_true": 3
+      },
+      {
+        "ques": "____ as it was at such a time, his work attracted much attention",
+        "ans_a": "A. Being published",
+        "ans_b": "B. Published",
+        "ans_c": "C. Publishing",
+        "ans_d": "D. to be published",
+        "ans_true": 2
+      },
+      {
+        "ques": "It can be argued that the future of human life on the planet rests on ____ smooth transition to\ncities that are more efficient and less wasteful",
+        "ans_a": "A. a",
+        "ans_b": "B. an",
+        "ans_c": "C. the",
+        "ans_d": "D. no article",
+        "ans_true": 1
+      },
+      {
+        "ques": "I wish you ____ throw rubbish out of the car window",
+        "ans_a": "A. won't",
+        "ans_b": "B. wouldn't",
+        "ans_c": "C. didn't",
+        "ans_d": "D. couldn't",
+        "ans_true": 2
+      },
+      {
+        "ques": "Sarah’s friends all had brothers and sisters but she was a (n) _____ child",
+        "ans_a": "A. singular",
+        "ans_b": "B. individual",
+        "ans_c": "C. single",
+        "ans_d": "D. only",
+        "ans_true": 4
+      },
+      {
+        "ques": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather,\nloved ____ of ourselves",
+        "ans_a": "A. regardless",
+        "ans_b": "B. in spite",
+        "ans_c": "C. in case",
+        "ans_d": "D. instead",
+        "ans_true": 2
+      },
+      {
+        "ques": "Being independent is a mixture of many things from teaching yourself new things to ____ on an\nadventure all on your own",
+        "ans_a": "A. to embark",
+        "ans_b": "B. taking",
+        "ans_c": "C. embarking",
+        "ans_d": "D. embarked",
+        "ans_true": 3
+      },
+      {
+        "ques": "Ian has no difficulty in ____ into use the perfect plans his friends have prepared for him",
+        "ans_a": "A. lending",
+        "ans_b": "B. taking",
+        "ans_c": "C. putting",
+        "ans_d": "D. heading",
+        "ans_true": 3
+      },
+      {
+        "ques": "With 1960 islands in different sizes and an unbelievable smooth sea surface, Ha Long Bay\n________ its name to one of the worthiest places in the world to visit",
+        "ans_a": "A. writes",
+        "ans_b": "B. wrote",
+        "ans_c": "C. will write",
+        "ans_d": "D. has written",
+        "ans_true": 4
+      },
+      {
+        "ques": "Lifelong learning can also help _______ some of the weaknesses of the education system",
+        "ans_a": "A. amend",
+        "ans_b": "B. repair",
+        "ans_c": "C. mend",
+        "ans_d": "D. adjust",
+        "ans_true": 1
+      },
+      {
+        "ques": "Teachers’ _________ would rise an average of $1000 under the proposal",
+        "ans_a": "A. pensions",
+        "ans_b": "B. salaries",
+        "ans_c": "C. wages",
+        "ans_d": "D. incomes",
+        "ans_true": 2
+      },
+      {
+        "ques": "She drinks a lot less now, to ____________ benefit of her health as a whole",
+        "ans_a": "A. a",
+        "ans_b": "B. an",
+        "ans_c": "C. 0",
+        "ans_d": "D. the",
+        "ans_true": 4
+      },
+      {
+        "ques": "_______ the institution type, in the United States, students typically earn credits for courses they\ntake and these credits count towards the completion of a program",
+        "ans_a": "A. According to",
+        "ans_b": "B. In regard to",
+        "ans_c": "C. Thanks to",
+        "ans_d": "D. Regardless of",
+        "ans_true": 4
+      },
+      {
+        "ques": "Electronic devices are becoming ________ common in educational environment",
+        "ans_a": "A. increase",
+        "ans_b": "B. increasing",
+        "ans_c": "C. increasingly",
+        "ans_d": "D. increased",
+        "ans_true": 3
+      },
+      {
+        "ques": "I hope you _______ the point of everything your mother and I do for you",
+        "ans_a": "A. annoy",
+        "ans_b": "B. have",
+        "ans_c": "C. see",
+        "ans_d": "D. take",
+        "ans_true": 3
+      },
+      {
+        "ques": "Those in ____ of banning laptops in classrooms like to demonstrate how handwritten notes lead\nto better learning compared to notes taken on a computer",
+        "ans_a": "A. search",
+        "ans_b": "B. need",
+        "ans_c": "C. view",
+        "ans_d": "D. favor",
+        "ans_true": 4
+      },
+      {
+        "ques": "Teachers can tell their students to use mobile apps like \"PIAZZA” to access course materials and\nalso to post questions about specific subjects, all _______ can be done in the classroom or outside the\nclassroom",
+        "ans_a": "A. this",
+        "ans_b": "B. what",
+        "ans_c": "C. which",
+        "ans_d": "D. how",
+        "ans_true": 1
+      },
+      {
+        "ques": "The Heritage Education for Sustainable Development project aims ____ strengthening the\nlinkage between culture and education for sustainable development",
+        "ans_a": "A. to",
+        "ans_b": "B. for",
+        "ans_c": "C. at",
+        "ans_d": "D. by",
+        "ans_true": 3
+      },
+      {
+        "ques": "____________, the bird may abandon the nest, leaving the chicks to die",
+        "ans_a": "A. If the birds are disturbed",
+        "ans_b": "B. If disturbed",
+        "ans_c": "C. If you disturbed the bird",
+        "ans_d": "D. Should the birds be disturbed",
+        "ans_true": 2
+      },
+      {
+        "ques": "Volunteers may be required to obtain Red Cross _______ in order to serve through hospitals and\nhealthcare organizations or provide disaster relief",
+        "ans_a": "A. diploma",
+        "ans_b": "B. certification",
+        "ans_c": "C. license",
+        "ans_d": "D. degree",
+        "ans_true": 2
+      },
+      {
+        "ques": "_______ with the internet, which is a system of linked computer networks, the worldwide web\nwas invented by British computer scientist Tim Berners-Lee",
+        "ans_a": "A. Not to confuse",
+        "ans_b": "B. Not to be confused",
+        "ans_c": "C. To be not confused",
+        "ans_d": "D. Confused not to be",
+        "ans_true": 2
+      },
+      {
+        "ques": "It's time for us ____ in efficiency and renewable energy, rebuild our cities, towns, municipalities\nand states",
+        "ans_a": "A. to invest",
+        "ans_b": "B. invest",
+        "ans_c": "C. investing",
+        "ans_d": "D. invested",
+        "ans_true": 1
+      },
+      {
+        "ques": "Why should we wait any longer? We’ve been told to act once we _________ the governor’s\npermission",
+        "ans_a": "A. received",
+        "ans_b": "B. will have received",
+        "ans_c": "C. have received",
+        "ans_d": "D. will receive",
+        "ans_true": 3
+      },
+      {
+        "ques": "Don’t forget to ring me up if _________ any changes in the timetable",
+        "ans_a": "A. they are",
+        "ans_b": "B. it will be",
+        "ans_c": "C. there will be",
+        "ans_d": "D. there are",
+        "ans_true": 4
+      },
+      {
+        "ques": "Of 30 countries inspected for airline safety, only 17 received a _________bill of health",
+        "ans_a": "A. clear",
+        "ans_b": "B. clean",
+        "ans_c": "C. pure",
+        "ans_d": "D. dirty",
+        "ans_true": 2
+      },
+      {
+        "ques": "Solar power is ____________________ to become the world's largest source of electricity by\n2050",
+        "ans_a": "A. estimated",
+        "ans_b": "B. antedated",
+        "ans_c": "C. anticipated",
+        "ans_d": "D. awaited",
+        "ans_true": 3
+      },
+      {
+        "ques": "The contract includes a 35-cent per hour increase in night shift ____________ pay",
+        "ans_a": "A. difference",
+        "ans_b": "B. different",
+        "ans_c": "C. differential",
+        "ans_d": "D. differentiate",
+        "ans_true": 3
+      },
+      {
+        "ques": "Tom is always blowing his trumpet that he is a qualified electrician, but the truth is\nquite_______",
+        "ans_a": "A. or else",
+        "ans_b": "B. instead",
+        "ans_c": "C. though",
+        "ans_d": "D. otherwise",
+        "ans_true": 4
+      },
+      {
+        "ques": "Be present _______ the hall _______ time and then I will present you ______him",
+        "ans_a": "A. with/on/to",
+        "ans_b": "B. at/in/to",
+        "ans_c": "C. to/on/with",
+        "ans_d": "D. at/on/with",
+        "ans_true": 2
+      }
     ]
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 2,
+    "time": 60,
+    "questions": [
+      {
+        "ques":"Do you know that _____ longest river in _____ world is _____ Nile? ",
+        "ans_a": "A. the/the/the ",
+        "ans_b": "B. a/the/the ",
+        "ans_c": "C. Ǿ/the/a ",
+        "ans_d": "D. the/the/ Ǿ ",
+        "ans_true": 2
+      },
+      {
+        "ques":"Lightweight luggage enables you to manage easily even when fully .............." ,
+        "ans_a": "A. crowded ",
+        "ans_b": "B. loaded",
+        "ans_c": "C. carried",
+        "ans_d": "D. packed",
+        "ans_true": 3
+      },
+      {
+        "ques": "The revolving door remained ________because Posey was pushing on it the wrong way.",
+        "ans_a": "A. station",
+        "ans_b": "B. stationed",
+        "ans_c": "C. stationary",
+        "ans_d": "D. stationery",
+        "ans_true": 1
+      },
+      {
+        "ques": "................. at the airport more early , he would have met his friend.",
+        "ans_a": "A. than he arrived",
+        "ans_b": "B. had he arrived",
+        "ans_c": "C. when he arrived",
+        "ans_d": "D. he had arrived",
+        "ans_true": 4
+      },
+      {
+        "ques": "You must have forgotten to send the email, ________there’s nothing in my inbox.",
+        "ans_a": "A. because of",
+        "ans_b": "B. for",
+        "ans_c": "C. due to",
+        "ans_d": "D. owning to",
+        "ans_true": 3
+      },
+      {
+        "ques": "The wine had made him a little ______ and couldn’t control his movement.",
+        "ans_a": "A. light-headed",
+        "ans_b": "B. narrow-minded",
+        "ans_c": "C. light-hearted",
+        "ans_d": "D. light-footed",
+        "ans_true": 2
+      },
+      {
+        "ques": "My little girl is tired now because she ______________all day .",
+        "ans_a": "A. studies",
+        "ans_b": "B. studied",
+        "ans_c": "C. has been studying",
+        "ans_d": "D. has studied",
+        "ans_true": 2
+      },
+      {
+        "ques": "The new director has really got things __________.",
+        "ans_a": "A. flying",
+        "ans_b": "B. running",
+        "ans_c": "C. jogging.",
+        "ans_d": "D. moving",
+        "ans_true": 4
+      },
+      {
+        "ques": "____________________, he left the hall quickly .",
+        "ans_a": "A. Not be rewarded with a smile",
+        "ans_b": "B. Not rewarding with a smile",
+        "ans_c": "C. Not having rewarded with a smile",
+        "ans_d": "D. Not being rewarded with a smile",
+        "ans_true": 1
+      },
+      {
+        "ques": "We were__________ a mile of our destination when we ran out of petrol.",
+        "ans_a": "A. hardly",
+        "ans_b": "B. only",
+        "ans_c": "C. within",
+        "ans_d": "D. inside",
+        "ans_true": 3
+      },
+      {
+        "ques": "The forecast has revealed that the world’s reserves of fossil fuel will have ______ by 2015.",
+        "ans_a": "A. taken over",
+        "ans_b": "B. caught up",
+        "ans_c": "C. run out",
+        "ans_d": "D. used off",
+        "ans_true": 2
+      },
+      {
+        "ques":"I usually buy my clothes_____. It’s cheaper than going to the dress maker. ",
+        "ans_a": "A. on the shelf",
+        "ans_b": "B. on the house",
+        "ans_c": "C. in public",
+        "ans_d": "D. off the peg",
+        "ans_true": 2
+      },
+      {
+        "ques": "As________in Greek and Roman mythology, harpies were frightful monsters that were half woman and half bird.",
+        "ans_a": "A. description",
+        "ans_b": "B. describing",
+        "ans_c": "C. to describe",
+        "ans_d": "D. described",
+        "ans_true": 3
+      },
+      {
+        "ques": "Scientists have invented walls and windows that can block out the noise, which allows individuals to focus on their work without____________.",
+        "ans_a": "A. be disturbed",
+        "ans_b": "B. disturbing",
+        "ans_c": "C. being disturbed",
+        "ans_d": "D. being disturbing",
+        "ans_true": 1
+      },
+      {
+        "ques": "Televisions are now 'an everyday' feature of 'most households' in the United States, and 'televisionviewing' is the number one 'activity leisure'.",
+        "ans_a": "A. everyday",
+        "ans_b": "B. activity leisure",
+        "ans_c": "C. most household",
+        "ans_d": "D. television viewing",
+        "ans_true": 3
+      },
+      {
+        "ques": "The word 'bystander' refers to_____",
+        "ans_a": "A. a spectator",
+        "ans_b": "B. a judge",
+        "ans_c": "C. a participant",
+        "ans_d": "D. a walker",
+        "ans_true": 1
+      },
+      {
+        
+          "ques": "The phrase 'to a good cause' could be best replaced by which of the following?",
+          "ans_a": "A. to reward the winner",
+          "ans_b": "B. to protect a wise investment",
+          "ans_c": "C. for a good purpose",
+          "ans_d": "D. for an award",
+          "ans_true": 3
+        },
+        {
+          "ques": "Which of the following is NOT mentioned in this passage?",
+          "ans_a": "A. Some runners were ready to put out a fire",
+          "ans_b": "B. Some runners looked like Elvis Presley.",
+          "ans_c": "C. Some runners were participating in a wedding",
+          "ans_d": "D. Some runners were serious about winning",
+          "ans_true": 2
+        },
+        {
+          "ques": "The word ' camaraderie ' as used in line 2 could be best replaced by which of the following?",
+          "ans_a": "A. views",
+          "ans_b": "B. companionship",
+          "ans_c": "C. games",
+          "ans_d": "D. jokes",
+          "ans_true": 2
+        },
+        {
+          "ques": "I think it’s impossible to 'abolish' school examinations.They are necessary to evaluate students’progress.",
+          "ans_a": "A. continue",
+          "ans_b": "B. extinguish",
+          "ans_c": "C. organize",
+          "ans_d": "D. stop",
+          "ans_true": 4
+        },
+        {
+          "ques": "He 'revealed' his intentions of leaving the company to the manager during the office dinner party.",
+          "ans_a": "A. concealed",
+          "ans_b": "B. disclosed",
+          "ans_c": "C. misled",
+          "ans_d": "D. influenced",
+          "ans_true": 1
+        },
+        {
+          "ques": "“ I’m sorry I gave you the wrong number”, said Paul to Susan.",
+          "ans_a": "A. Paul apologized to Susan for having given the wrong number .",
+          "ans_b": "B. Paul accused Susan of having given him the wrong number.",
+          "ans_c": "C. Paul thanked to Susan for giving the wrong number.",
+          "ans_d": "D. Paul denied giving Susan the wrong number.",
+          "ans_true": 2
+        },
+        {
+          "ques": "I needn’t have watered the garden because it came down in torrents after that .",
+          "ans_a": "A. If only I had watered the garden before it came down in torrents",
+          "ans_b": "B. It's a pity I had watered the garden after it came down in torrents.",
+          "ans_c": "C. I regret having watered the garden before it came down in torrents.",
+          "ans_d": "D. If it had came down in torrents, I wouldn’t have watered the garden",
+          "ans_true": 3
+        },
+        {
+          "ques": "The students complained that the teacher was inexperienced.",
+          "ans_a": "A. The teacher was popular despite his inexperience.",
+          "ans_b": "B. The teacher was favored because of his inexperience.",
+          "ans_c": "C. The students praised the teacher for his experience.",
+          "ans_d": "D. The teacher was not supported for his inexperience.",
+          "ans_true": 4
+        },
+        {
+          "ques": "We gain more knowledge about how to stay safe online. We worry about the threats of cybercrime less",
+          "ans_a": "A. The more knowledge about how to stay safe online we gain, the more we worry about the threats of cybercrime.",
+          "ans_b": "B. The more we stay online to gain safety knowledge, the less we worry about the threats of cybercrime.",
+          "ans_c": "C. The more knowledge about how to stay safe online we gain, the less we worry about the threats of cybercrime.",
+          "ans_d": "D. The more we know about how to stay safe online, we worry about the threats of cybercrime less.",
+          "ans_true": 2
+        },
+        {
+          "ques":"How many pages............... so far?" ,
+          "ans_a": "A.have you studied ",
+          "ans_b": "B.did you study",
+          "ans_c": "C.do you study ",
+          "ans_d": "D.had you studied ",
+          "ans_true": 1
+        },
+        {
+          "ques":"We are too late. The plane ............... off ten minutes ago." ,
+          "ans_a": "A.has taken ",
+          "ans_b": "B.took ",
+          "ans_c": "C.had taken ",
+          "ans_d": "D.was taken ",
+          "ans_true": 3
+        },
+        {
+          "ques": "“What a lovely boat!”",
+          "ans_a": "A.spend ",
+          "ans_b": "B.spent ",
+          "ans_c": "C.spending ",
+          "ans_d": "D.have spent ",
+          "ans_true": 2
+        },
+        {
+          "ques": "He ----------",
+          "ans_a": "A.will be here soon ",
+          "ans_b": "B.will here be soon ",
+          "ans_c": "C.will be soon here ",
+          "ans_d": "D.be soon will ere ",
+          "ans_true": 4
+        },
+        {
+          "ques": "They------------ to the theatre twice so far this month.",
+          "ans_a": "A.are going ",
+          "ans_b": "B.go ",
+          "ans_c": "C.went ",
+          "ans_d": "D.have been ",
+          "ans_true": 2
+        },
+        {
+          "ques": "My daughter ------------- university last June.",
+          "ans_a": "A.left ",
+          "ans_b": "B.go ",
+          "ans_c": "C.went ",
+          "ans_d": "D.have been ",
+          "ans_true": 3
+        },
+        {
+          "ques": "He hates his boss so he ------------- his job",
+          "ans_a": "A.leaves ",
+          "ans_b": "B.has left ",
+          "ans_c": "C.leaves ",
+          "ans_d": "D.was leaving ",
+          "ans_true": 1
+        },
+        {
+          "ques": "I think John …………..tomorrow.",
+          "ans_a": "A.would come ",
+          "ans_b": "B.come ",
+          "ans_c": "C.will come ",
+          "ans_d": "D.comes ",
+          "ans_true": 2
+        },
+        {
+          "ques": " After he ------------ his driving test he bought a car.",
+          "ans_a": "A.had passed ",
+          "ans_b": "B.pass ",
+          "ans_c": "C.passed ",
+          "ans_d": "D.passing  ",
+          "ans_true": 2
+        },
+        {
+          "ques":"When I got to the office, I ----------- that I had forgot to lock the door.",
+          "ans_a": "A.realized  ",
+          "ans_b": "B.had realized ",
+          "ans_c": "C.realize  ",
+          "ans_d": "D.have realized ",
+          "ans_true": 3
+        },
+        {
+          "ques": "When she was 21 she -------------- across the United States.",
+          "ans_a": "A.drove  ",
+          "ans_b": "B.drive  ",
+          "ans_c": "C.driven  ",
+          "ans_d": "D. was driving ",
+          "ans_true": 2
+        },
+        {
+          "ques": "He often ------------ so nervous before his exams.",
+          "ans_a": "A.feels  ",
+          "ans_b": "B.felt  ",
+          "ans_c": "C.was feeling ",
+          "ans_d": "D.had felt ",
+          "ans_true": 3
+        },
+        {
+          "ques": "How long have you ------------- he was a liar.",
+          "ans_a": "A.been knowing ",
+          "ans_b": "B.knew  ",
+          "ans_c": "C.know  ",
+          "ans_d": "D.known  ",
+          "ans_true": 2
+        },
+        {
+          "ques": " I’m sorry. I don’t understand what -----------------. ",
+          "ans_a": "A.you say ",
+          "ans_b": "B.you’re saying ",
+          "ans_c": "C.you will say ",
+          "ans_d": "D.you would say ",
+          "ans_true": 1
+        },
+        {
+        "ques": "------------- to the radio when you get up everyday?",
+        "ans_a": "A. Do you listen ",
+        "ans_b": "B.Are you listening ",
+        "ans_c": "C.Was you listening ",
+        "ans_d": "D.Did you listen ",
+        "ans_true": 2
+      },
+      {
+        "ques": "My sweetheart --------------- smoking next week.",
+        "ans_a": "A.will give up ",
+        "ans_b": "B.is going to give up ",
+        "ans_c": "C.gives up ",
+        "ans_d": "D.gave up ",
+        "ans_true": 4
+      }
+    ]
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 3,
+    "time": 60,
+    "questions": [
+      {
+        "ques": " It’s hard ------------ my father as a child. ",
+        "ans_a": "A.imagine ",
+        "ans_b": "B.imagining ",
+        "ans_c": "C.imagines ",
+        "ans_d": "D. to imagine",
+        "ans_true": 4
+      },
+      {
+        "ques": "My dad made me ------------- my homework everyday.",
+        "ans_a": "A.to do",
+        "ans_b": "B.doing ",
+        "ans_c": "C.do ",
+        "ans_d": "D.to doing",
+        "ans_true": 3
+      },
+      {
+        "ques": "I wouldn’t like -------- a marathon.",
+        "ans_a": "A.run ",
+        "ans_b": "B.to run ",
+        "ans_c": "C.running ",
+        "ans_d": "D.ran ",
+        "ans_true": 2
+      },
+      {
+        "ques": "It’s impossible ----------- Chinese in a year.",
+        "ans_a": "A.learning ",
+        "ans_b": "B.learn ",
+        "ans_c": "C.to learn ",
+        "ans_d": "D.learnt ",
+        "ans_true": 3
+      },
+      {
+        "ques": " I’m not used to ---------- as early as this.",
+        "ans_a": "A.get up",
+        "ans_b": "B.getting up",
+        "ans_c": "C. to get up",
+        "ans_d": "D.gets up",
+        "ans_true": 2
+      },
+      {
+        "ques": "We managed ---------- home before the rain started.",
+        "ans_a": "A.to get",
+        "ans_b": "B.get ",
+        "ans_c": "C.getting ",
+        "ans_d": "D.got ",
+        "ans_true": 1
+      },
+      {
+        "ques": "£ 300 for shoes! That’s -------------! ",
+        "ans_a": "A.such expensive",
+        "ans_b": "B.so rich",
+        "ans_c": "C.so expensive",
+        "ans_d": "D.so a high price",
+        "ans_true": 3
+      },
+      {
+        "ques": " When my children were little we -------- hours playing in the garden.",
+        "ans_a": "A.used to spending",
+        "ans_b": "B.used to spend",
+        "ans_c": "C.are used to spending",
+        "ans_d": "D. are used to spend",
+        "ans_true": 2
+      },
+      {
+        "ques": "I really need -------- new jacket.",
+        "ans_a": "A.a",
+        "ans_b": "B.any ",
+        "ans_c": "C.some ",
+        "ans_d": "D.a few",
+        "ans_true": 1
+      },
+      {
+        "ques": "You --------- eat and drink in class.",
+        "ans_a": "A.must ",
+        "ans_b": "B.mustn’t ",
+        "ans_c": "C.have to",
+        "ans_d": "D.don’t have to ",
+        "ans_true": 2
+      },
+      {
+        "ques": "I know several engineers from ---------. ",
+        "ans_a": "A.England ",
+        "ans_b": "B.the England",
+        "ans_c": "C. an England",
+        "ans_d": "D.English ",
+        "ans_true": 1
+      },
+      {
+        "ques": "Nobody likes ---------- bad news. ",
+        "ans_a": "A.to be tell",
+        "ans_b": "B.to be told",
+        "ans_c": "C.be told",
+        "ans_d": "D.tell",
+        "ans_true": 2
+      },
+      {
+        "ques": "That lady is -------- one in this club.",
+        "ans_a": "A.prettier ",
+        "ans_b": "B.most pretty",
+        "ans_c": "C.more pretty",
+        "ans_d": "D. the prettiest",
+        "ans_true": 4
+      },
+      {
+        "ques": " I’m thirsty. May I have something -------- to drink?",
+        "ans_a": "A.cold ",
+        "ans_b": "B.coldness ",
+        "ans_c": "C.coldest ",
+        "ans_d": "D.coldly ",
+        "ans_true": 1
+      },
+      {
+        "ques": "Most people --------- advice but so few take it.",
+        "ans_a": "A.keep ",
+        "ans_b": "B.make ",
+        "ans_c": "C.do ",
+        "ans_d": "D.give ",
+        "ans_true": 4
+      },
+      {
+        "ques": " I turned round and ---------- Paula.",
+        "ans_a": "A.see ",
+        "ans_b": "B.saw ",
+        "ans_c": "C.was seeing",
+        "ans_d": "D.seen ",
+        "ans_true": 2
+      },
+      {
+        "ques": "Why are you working so hard these days? Because I------------- a car, so I’m saving as much as I can. ",
+        "ans_a": "A.am going to buy",
+        "ans_b": "B.will buy",
+        "ans_c": "C.buy ",
+        "ans_d": "D.was going to",
+        "ans_true": 1
+      },
+      {
+        "ques": "I -------------- Mary. Is she here?",
+        "ans_a": "A.look for",
+        "ans_b": "B.was looking for",
+        "ans_c": "C.looked ",
+        "ans_d": "D.am looking for",
+        "ans_true": 4
+      },
+      {
+        "ques": "This guide book -------------- full of useful information.",
+        "ans_a": "A.will be",
+        "ans_b": "B.are",
+        "ans_c": "C.is",
+        "ans_d": "D.was",
+        "ans_true": 3
+      },
+      {
+        "ques": "I’m hot because I ------------- for hours. ",
+        "ans_a": "A. have run",
+        "ans_b": "B.have been running ",
+        "ans_c": "C.ran ",
+        "ans_d": "D.am running",
+        "ans_true": 2
+      },
+      {
+        "ques": ". …….. he and his wife ……. in their house for a long time? ",
+        "ans_a": "A.Have/live",
+        "ans_b": "B.Has/lived",
+        "ans_c": "C.Have/lived",
+        "ans_d": "D.Did/live ",
+        "ans_true": 3
+      },
+      {
+        "ques": "“Who ------------ that horrible noise?” “It’s Tom practicing the violin”",
+        "ans_a": "A.have ",
+        "ans_b": "B.am going to have",
+        "ans_c": "C.will have",
+        "ans_d": "D.am having",
+        "ans_true": 2
+      },
+      {
+        "ques": " The shops-----------full of things to buy--------- Christmas comes.",
+        "ans_a": "A.are/ when",
+        "ans_b": "B.are / if",
+        "ans_c": "C.will be/ if",
+        "ans_d": "D. is/ when",
+        "ans_true": 3
+      },
+      {
+        "ques": "What --------- you--------- at weekend when you were a child? ",
+        "ans_a": "A.do/ do",
+        "ans_b": "B. have/done",
+        "ans_c": "C.did/ use to do",
+        "ans_d": "D. did/ used to do",
+        "ans_true": 1
+      },
+      {
+        "ques": " Sorry. I------------ one of the nicest dishes.",
+        "ans_a": "A.have broken",
+        "ans_b": "B.broke ",
+        "ans_c": "C.have been breaking",
+        "ans_d": "D.had broken",
+        "ans_true": 3
+      },
+      {
+        "ques": " Here’s my wallet! I-----------for it for ages.",
+        "ans_a": "A.had looked",
+        "ans_b": "B. have been looking",
+        "ans_c": "C.look ",
+        "ans_d": "D.looked ",
+        "ans_true": 1
+      },
+      {
+        "ques": "Since we ---------- in the new house we ----------- very busy. ",
+        "ans_a": "A.move/ are",
+        "ans_b": "B. have moved/ were",
+        "ans_c": "C. moved/ were",
+        "ans_d": "D.moved/ have been",
+        "ans_true": 2
+      },
+      {
+        "ques": "-------- the moon last night? ",
+        "ans_a": "A.Have you seen",
+        "ans_b": "B.Did you see",
+        "ans_c": "C.Do you see",
+        "ans_d": "D.Had you seen",
+        "ans_true": 4
+      },
+      {
+        "ques": "When you --------- your work, you may leave the room. ",
+        "ans_a": "A.will finish",
+        "ans_b": "B.finishing",
+        "ans_c": "C.finished ",
+        "ans_d": "D.had finished ",
+        "ans_true": 2
+      },
+      {
+        "ques": " “What are you looking for?” “I can’t remember where I --------- my glasses.”",
+        "ans_a": "A.leave ",
+        "ans_b": "B.left ",
+        "ans_c": "C.had left",
+        "ans_d": "D.was left",
+        "ans_true": 3
+      },
+      {
+        "ques": "I haven’t heard from my son------------ ",
+        "ans_a": "A.for several weeks",
+        "ans_b": "B.for several weeks ago",
+        "ans_c": "C.since several weeks before",
+        "ans_d": "D.since a long time",
+        "ans_true": 2
+      },
+      {
+        "ques": "“Why is Bill unhappy?” “Because his birds----------- away”",
+        "ans_a": "A.flew ",
+        "ans_b": "B.fly ",
+        "ans_c": "C. had flown",
+        "ans_d": "D.have flown",
+        "ans_true": 1
+      },
+      {
+        "ques": "“I took an exam this morning. It was really hard.” “------------- a lot before you took it?”",
+        "ans_a": "A.Have you studied",
+        "ans_b": "B.Did you study",
+        "ans_c": "C.Have you study",
+        "ans_d": "D.Do you study ",
+        "ans_true": 4
+      },
+      {
+        "ques": "A basket of apples, oranges, lemons --------- sent to me last Christmas. ",
+        "ans_a": "A.is",
+        "ans_b": "B.are",
+        "ans_c": "C.was",
+        "ans_d": "D.were",
+        "ans_true": 2
+      },
+      {
+        "ques": "In Britain women usually retire----------- the age of 60.",
+        "ans_a": "A.in",
+        "ans_b": "B.on",
+        "ans_c": "C.at",
+        "ans_d": "D.by",
+        "ans_true": 3
+      },
+      {
+        "ques": "My students’ phones are always ringing----------- my lessons! ",
+        "ans_a": "A.during ",
+        "ans_b": "B.for ",
+        "ans_c": "C.while ",
+        "ans_d": "D.at",
+        "ans_true": 3
+      },
+      {
+        "ques": "Why does the telephone always ring---------- you’re having a bath?",
+        "ans_a": "A.during ",
+        "ans_b": "B.for ",
+        "ans_c": "C.while ",
+        "ans_d": "D.on",
+        "ans_true": 1
+      },
+      {
+        "ques": "They say drinking a little red wine is good----------- you. ",
+        "ans_a": "A.for",
+        "ans_b": "B.at",
+        "ans_c": "C.to",
+        "ans_d": "D.by",
+        "ans_true": 3
+      },
+      {
+        "ques": "Small children always get excited-------- Christmas.",
+        "ans_a": "A.with",
+        "ans_b": "B.for",
+        "ans_c": "C.in",
+        "ans_d": "D.at",
+        "ans_true": 4
+      },
+      {
+        "ques": " Paris is famous--------- - being a romantic city.",
+        "ans_a": "A.to",
+        "ans_b": "B.for",
+        "ans_c": "C.from",
+        "ans_d": "D.with",
+        "ans_true": 2
+      }
+    ]
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 4,
+    "time": 60,
+    "questions": [
+      {
+        "ques": "She’s played the piano---------- she was little.",
+        "ans_a": "A.when ",
+        "ans_b": "B.from",
+        "ans_c": "C.since",
+        "ans_d": "D.for",
+        "ans_true": 3
+      },
+      {
+        "ques": "Dubai is so different ----------- any other places I know.",
+        "ans_a": "A.with",
+        "ans_b": "B.away",
+        "ans_c": "C.between",
+        "ans_d": "D.from",
+        "ans_true": 4
+      },
+      {
+        "ques": "If I --------- a flower I would be a sunflower. ",
+        "ans_a": "A.am",
+        "ans_b": "B.were",
+        "ans_c": "C.has been",
+        "ans_d": "D.will be",
+        "ans_true": 2
+      },
+      {
+        "ques": "He should have a word ------------ his company. ",
+        "ans_a": "A.to",
+        "ans_b": "B.with",
+        "ans_c": "C.at",
+        "ans_d": "D.toward",
+        "ans_true": 2
+      },
+      {
+        "ques": " I’ve always enjoy ------------.",
+        "ans_a": "A.dancing ",
+        "ans_b": "B.dance ",
+        "ans_c": "C.to dance",
+        "ans_d": "D.danced ",
+        "ans_true": 1
+      },
+      {
+        "ques": " I’ve never forgot ----------- flamenco for the first time.",
+        "ans_a": "A.to see",
+        "ans_b": "B.see",
+        "ans_c": "C.seeing",
+        "ans_d": "D.saw",
+        "ans_true": 3
+      },
+      {
+        "ques": " I couldn’t stop ---------- about buying a laptop. ",
+        "ans_a": "A.think ",
+        "ans_b": "B.to think ",
+        "ans_c": "C.thought ",
+        "ans_d": "D.thinking ",
+        "ans_true": 4
+      },
+      {
+        "ques": " Now I’ve decided --------- how to do it. ",
+        "ans_a": "A.learning ",
+        "ans_b": "B.learn ",
+        "ans_c": "C.to learn ",
+        "ans_d": "D.learnt ",
+        "ans_true": 3
+      },
+      {
+        "ques": "My friend has promised ---------- me some steps.",
+        "ans_a": "A.to teach",
+        "ans_b": "B.teach",
+        "ans_c": "C.teaching ",
+        "ans_d": "D.taught ",
+        "ans_true": 1
+      },
+      {
+        "ques": " She’s going to let me ---------- her shoes. ",
+        "ans_a": "A.to borrow",
+        "ans_b": "B.borrowing ",
+        "ans_c": "C.borrow ",
+        "ans_d": "D.borrowed ",
+        "ans_true": 3
+      },
+      {
+        "ques": "I’m really looking forward to ------------ my parents. ",
+        "ans_a": "A.meet ",
+        "ans_b": "B.meeting ",
+        "ans_c": "C. the meeting",
+        "ans_d": "D.be met ",
+        "ans_true": 2
+      },
+      {
+        "ques": "I’ll need ------- some music to dance to.",
+        "ans_a": "A.buy",
+        "ans_b": "B.to buy",
+        "ans_c": "C.buying",
+        "ans_d": "D.be bought",
+        "ans_true": 2
+      },
+      {
+        "ques": "I’m thinking of ------------ to Spain next month.",
+        "ans_a": "A.go",
+        "ans_b": "B.going",
+        "ans_c": "C.to go",
+        "ans_d": "D.been to",
+        "ans_true": 2
+      },
+      {
+        "ques": "I hope ----------- to dance by then.",
+        "ans_a": "A.being able",
+        "ans_b": "B. to be able",
+        "ans_c": "C.be able",
+        "ans_d": "D.able",
+        "ans_true": 2
+      },
+      {
+        "ques": "Small children have big -------------. ",
+        "ans_a": "A.imagination ",
+        "ans_b": "B.imagine ",
+        "ans_c": "C.imaginary ",
+        "ans_d": "D.imaginative ",
+        "ans_true": 1
+      },
+      {
+        "ques": "When I was a small boy, Christmas was very --------. ",
+        "ans_a": "A.exciting ",
+        "ans_b": "B.excite ",
+        "ans_c": "C.excited ",
+        "ans_d": "D.excitement ",
+        "ans_true": 1
+      },
+      {
+        "ques": "Many --------- believe dreams help us to understand our lives.",
+        "ans_a": "A.psychologists ",
+        "ans_b": "B.psychological ",
+        "ans_c": "C.psychology",
+        "ans_d": "D.psyche ",
+        "ans_true": 1
+      },
+      {
+        "ques": "My car is very ------------, it uses very little petrol.",
+        "ans_a": "A.economic ",
+        "ans_b": "B.economical ",
+        "ans_c": "C.economist ",
+        "ans_d": "D.economy ",
+        "ans_true": 2
+      },
+      {
+        "ques": "We haven’t got ------- flour for dinner.",
+        "ans_a": "A.some ",
+        "ans_b": "B.any",
+        "ans_c": "C.little",
+        "ans_d": "D.a",
+        "ans_true": 4
+      },
+      {
+        "ques": "I didn’t enjoy -------- book you lent me. ",
+        "ans_a": "A.a",
+        "ans_b": "B.an",
+        "ans_c": "C.some",
+        "ans_d": "D.the",
+        "ans_true": 4
+      },
+      {
+        "ques": " You can stay here ------ you like.",
+        "ans_a": "A.as long as",
+        "ans_b": "B.as far as",
+        "ans_c": "C.as much as",
+        "ans_d": "D.so far as",
+        "ans_true": 1
+      },
+      {
+        "ques": "Ask him to ------- us a funny story.",
+        "ans_a": "A.say",
+        "ans_b": "B.tell",
+        "ans_c": "C.speak ",
+        "ans_d": "D.talk",
+        "ans_true": 2
+      },
+      {
+        "ques": " He look very ----------- when I told him the new.",
+        "ans_a": "A.happily ",
+        "ans_b": "B.happy ",
+        "ans_c": "C.happiness ",
+        "ans_d": "D.happiest ",
+        "ans_true": 2
+      },
+      {
+        "ques": "How long did it -------- you to type this letter? ",
+        "ans_a": "A.want ",
+        "ans_b": "B.take ",
+        "ans_c": "C.need ",
+        "ans_d": "D.require ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Has your house ------------- recently?",
+        "ans_a": "A.was decorated",
+        "ans_b": "B.decorated",
+        "ans_c": "C. been decorated",
+        "ans_d": "D. is decorated",
+        "ans_true": 1
+      },
+      {
+        "ques": "English and French -------- in Canada. ",
+        "ans_a": "A.are speaking",
+        "ans_b": "B.were spoken here",
+        "ans_c": "C.are spoken",
+        "ans_d": "D.speak",
+        "ans_true": 3
+      },
+      {
+        "ques": "My father ----------- me his old car on my last birthday",
+        "ans_a": "A.given ",
+        "ans_b": "B.was given ",
+        "ans_c": "C.gave",
+        "ans_d": "D.give",
+        "ans_true": 3
+      },
+      {
+        "ques": "Shakespeare ------------ many plays.",
+        "ans_a": "A.wrote ",
+        "ans_b": "B.written ",
+        "ans_c": "C.write ",
+        "ans_d": "D. was wrote",
+        "ans_true": 1
+      },
+      {
+        "ques": "The exam results ---------- to you by post.",
+        "ans_a": "A.will be send",
+        "ans_b": "B.will sent",
+        "ans_c": "C.sent ",
+        "ans_d": "D.will be sent",
+        "ans_true": 4
+      },
+      {
+        "ques": "Sushi ----------- mainly in Japan.",
+        "ans_a": "A.is eaten",
+        "ans_b": "B.eat ",
+        "ans_c": "C.eats ",
+        "ans_d": "D.be eaten",
+        "ans_true": 1
+      },
+      {
+        "ques": " Are you thinking about going to Europe for your vacation? “No, but if I ---------- money, I would definitely go.” ",
+        "ans_a": "A.have",
+        "ans_b": "B.had",
+        "ans_c": "C.have had",
+        "ans_d": "D.would have",
+        "ans_true": 2
+      },
+      {
+        "ques": " “It’s really raining.” “Yes. If the weather ---------, we’ll have to give up camping.”",
+        "ans_a": "A.would get",
+        "ans_b": "B.get worse",
+        "ans_c": "C. might get worse ",
+        "ans_d": "D.should get worse ",
+        "ans_true": 2
+      },
+      {
+        "ques": " “Why don’t you send me only twenty dollars?” “Sorry. If I had more money, I ---------- give you more.”  ",
+        "ans_a": "A. will have ",
+        "ans_b": "B.would have",
+        "ans_c": "C.would ",
+        "ans_d": "D.have ",
+        "ans_true": 3
+      },
+      {
+        "ques": "“Do you need help with your English?” “If I do, I ------ you.” ",
+        "ans_a": "A.will ask",
+        "ans_b": "B.ask",
+        "ans_c": "C.would ask",
+        "ans_d": "D.asked",
+        "ans_true": 1
+      },
+      {
+        "ques": "This room is smoky. I wish you --------- smoking. ",
+        "ans_a": "A. would stop",
+        "ans_b": "B.have stopped",
+        "ans_c": "C.stop ",
+        "ans_d": "D.stopping ",
+        "ans_true": 2
+      },
+      {
+        "ques": " --------- John busy every day?",
+        "ans_a": "A.Does",
+        "ans_b": "B.Will",
+        "ans_c": "C.Is",
+        "ans_d": "D.Has",
+        "ans_true": 3
+      },
+      {
+        "ques": "Her boss told -------- to clean his room. ",
+        "ans_a": "A.she",
+        "ans_b": "B.to her",
+        "ans_c": "C.her",
+        "ans_d": "D.for her",
+        "ans_true": 3
+      },
+      {
+        "ques": "I like to have -------- trees in front of the window so that people can’t look in.",
+        "ans_a": "A.any",
+        "ans_b": "B.little",
+        "ans_c": "C.a few",
+        "ans_d": "D.so few",
+        "ans_true": 3
+      },
+      {
+        "ques": " …………… students enrolled this year than last year at New York University.",
+        "ans_a": "A.Less than",
+        "ans_b": "B.Less of the",
+        "ans_c": "C.A few of",
+        "ans_d": "D.A few more",
+        "ans_true": 4
+      },
+      {
+        "ques": "The woman who…. next door is often willing to help us whenever we are in difficulty.",
+        "ans_a": "A.to live",
+        "ans_b": "B.living ",
+        "ans_c": "C.lived ",
+        "ans_d": "D.lives ",
+        "ans_true": 4
+      }
+    ]
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 5,
+    "time": 60,
+    "questions": [
+      {
+        "ques": "They say that they …… their course next month ",
+        "ans_a": "A.finish ",
+        "ans_b": "B.will finish",
+        "ans_c": "C.will be finishing",
+        "ans_d": "D.will be finished",
+        "ans_true": 2
+      },
+      {
+        "ques": "Mary …….. her treatment almost two years ago. ",
+        "ans_a": "A.have ",
+        "ans_b": "B. has had",
+        "ans_c": "C.had",
+        "ans_d": "D. was having ",
+        "ans_true": 3
+      },
+      {
+        "ques": " Don’t bother me while I ……. ",
+        "ans_a": "A.am working",
+        "ans_b": "B.was working",
+        "ans_c": "C. will work",
+        "ans_d": "D.is going to work",
+        "ans_true": 1
+      },
+      {
+        "ques": "Did you hear …….. upstairs? ",
+        "ans_a": "A.she sing",
+        "ans_b": "B.her singing",
+        "ans_c": "C.she singing",
+        "ans_d": "D.her to sing",
+        "ans_true": 2
+      },
+      {
+        "ques": "Women in the past .…. work outside the home as nowadays.",
+        "ans_a": "A. do not",
+        "ans_b": "B.won’t ",
+        "ans_c": "C.didn’t ",
+        "ans_d": "D.hasn’t ",
+        "ans_true": 3
+      },
+      {
+        "ques": " Today is their golden wedding anniversary. They ….. married for 50 years.",
+        "ans_a": "A.have been",
+        "ans_b": "B.has been",
+        "ans_c": "C.was ",
+        "ans_d": "D.will be",
+        "ans_true": 1
+      },
+      {
+        "ques": "He ……. in the office at the moment. ",
+        "ans_a": "A.has work",
+        "ans_b": "B.is working",
+        "ans_c": "C.has been working",
+        "ans_d": "D.works ",
+        "ans_true": 2
+      },
+      {
+        "ques": " He ………. very frightened when he saw spiders.",
+        "ans_a": "A.feeling ",
+        "ans_b": "B.felt ",
+        "ans_c": "C.was felt",
+        "ans_d": "D.feels ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Where ……. next summer?",
+        "ans_a": "A.will you go",
+        "ans_b": "B.are you going",
+        "ans_c": "C.do you go",
+        "ans_d": "D.are you going to go",
+        "ans_true": 2
+      },
+      {
+        "ques": " How long ……. you studied here? ",
+        "ans_a": "A.are",
+        "ans_b": "B.did",
+        "ans_c": "C.do",
+        "ans_d": "D.have",
+        "ans_true": 4
+      },
+      {
+        "ques": "After our guests ………, we sat down to dinner.",
+        "ans_a": "A.arrived ",
+        "ans_b": "B.arrive",
+        "ans_c": "C. were arriving",
+        "ans_d": "D.have arrived",
+        "ans_true": 1
+      },
+      {
+        "ques": "She and I……… each other since we were at secondary school. ",
+        "ans_a": "A.know ",
+        "ans_b": "B.knew ",
+        "ans_c": "C.have known",
+        "ans_d": "D.has known",
+        "ans_true": 3
+      },
+      {
+        "ques": "….. you at home last night? ",
+        "ans_a": "A.Did ",
+        "ans_b": "B.Were ",
+        "ans_c": "C.Have ",
+        "ans_d": "D.Are ",
+        "ans_true": 2
+      },
+      {
+        "ques": " What …. to do when you graduate?",
+        "ans_a": "A.are you going",
+        "ans_b": "B.are going",
+        "ans_c": "C.you are going",
+        "ans_d": "D.are you go ",
+        "ans_true": 1
+      },
+      {
+        "ques": " The books and the dictionary….. … on the table. ",
+        "ans_a": "A.were ",
+        "ans_b": "B.are",
+        "ans_c": "C.is",
+        "ans_d": "D.have been",
+        "ans_true": 2
+      },
+      {
+        "ques": "………. both of you ready for the test? ",
+        "ans_a": "A.Is",
+        "ans_b": "B.Are",
+        "ans_c": "C.Have",
+        "ans_d": "D.Do",
+        "ans_true": 2
+      },
+      {
+        "ques": "She ……… here since I came here.",
+        "ans_a": "A.lives ",
+        "ans_b": "B.lived ",
+        "ans_c": "C. is living",
+        "ans_d": "D.has lived",
+        "ans_true": 4
+      },
+      {
+        "ques": "We …… a lot important inventions in the future.",
+        "ans_a": "A.have ",
+        "ans_b": "B.will have ",
+        "ans_c": "C.had",
+        "ans_d": "D.has had",
+        "ans_true": 2
+      },
+      {
+        "ques": "The police ……... for the thief at the moment. ",
+        "ans_a": "A. was looking",
+        "ans_b": "B.are looking",
+        "ans_c": "C.have been looking",
+        "ans_d": "D. is going to look. ",
+        "ans_true": 3
+      },
+      {
+        "ques": "It was really kind ….. . you to help poor people. ",
+        "ans_a": "A.to",
+        "ans_b": "B.for",
+        "ans_c": "C.of",
+        "ans_d": "D.on",
+        "ans_true": 3
+      },
+      {
+        "ques": " Romeo and Juliet is a play …………. William Shakespeare. ",
+        "ans_a": "A.in",
+        "ans_b": "B.by",
+        "ans_c": "C.on",
+        "ans_d": "D.form",
+        "ans_true": 2
+      },
+      {
+        "ques": "‘Can I ask you something?’ ’Not now, I………. my report.’ ",
+        "ans_a": "A. am writing",
+        "ans_b": "B.write ",
+        "ans_c": "C.will write ",
+        "ans_d": "D.wrote",
+        "ans_true": 1
+      },
+      {
+        "ques": " Please go out ….. .dinner ",
+        "ans_a": "A.in",
+        "ans_b": "B.for",
+        "ans_c": "C.to",
+        "ans_d": "D.with",
+        "ans_true": 2
+      },
+      {
+        "ques": "You must be responsible …………. your study. ",
+        "ans_a": "A.in",
+        "ans_b": "B.from",
+        "ans_c": "C.for",
+        "ans_d": "D.at",
+        "ans_true": 3
+      },
+      {
+        "ques": "We arrived ……….. the station five minutes late.",
+        "ans_a": "A.on",
+        "ans_b": "B.to",
+        "ans_c": "C.at",
+        "ans_d": "D.in",
+        "ans_true": 3
+      },
+      {
+        "ques": "Her success ………. passing the exam made her parents very happy ",
+        "ans_a": "A.in",
+        "ans_b": "B.with",
+        "ans_c": "C.up",
+        "ans_d": "D.to",
+        "ans_true": 1
+      },
+      {
+        "ques": "No one likes being laughed ……….. .",
+        "ans_a": "A.at",
+        "ans_b": "B.with",
+        "ans_c": "C.for",
+        "ans_d": "D.on",
+        "ans_true": 1
+      },
+      {
+        "ques": "The meeting was held …………Tuesday. ",
+        "ans_a": "A.on",
+        "ans_b": "B.of",
+        "ans_c": "C.for",
+        "ans_d": "D.in",
+        "ans_true": 1
+      },
+      {
+        "ques": "All of the clothes sold in this store were made …… hand ",
+        "ans_a": "A.in",
+        "ans_b": "B.with",
+        "ans_c": "C.on",
+        "ans_d": "D.by",
+        "ans_true": 4
+      },
+      {
+        "ques": "She is interested …….. making money. ",
+        "ans_a": "A.of",
+        "ans_b": "B.at",
+        "ans_c": "C.in",
+        "ans_d": "D.by",
+        "ans_true": 3
+      },
+      {
+        "ques": "Thank you for letting me …….. your dog for a walk.",
+        "ans_a": "A.take ",
+        "ans_b": "B.to take ",
+        "ans_c": "C.taken",
+        "ans_d": "D.taking",
+        "ans_true": 1
+      },
+      {
+        "ques": "They found it is impossible ……… their problems. ",
+        "ans_a": "A.solve ",
+        "ans_b": "B.to solve ",
+        "ans_c": "C.solved",
+        "ans_d": "D.solving",
+        "ans_true": 2
+      },
+      {
+        "ques": "We can’t find a place ……… ",
+        "ans_a": "A.live ",
+        "ans_b": "B.to live ",
+        "ans_c": "C.living",
+        "ans_d": "D.lived",
+        "ans_true": 2
+      },
+      
+      {
+        "ques": "The film seemed …….... forever, but at last it was over",
+        "ans_a": "A.to go on",
+        "ans_b": "B.going on",
+        "ans_c": "C.go on",
+        "ans_d": "D.went on",
+        "ans_true": 1
+      },
+      {
+        "ques": "We’ve decided …………. married in the spring",
+        "ans_a": "A.getting ",
+        "ans_b": "B.to get",
+        "ans_c": "C.get",
+        "ans_d": "D.got",
+        "ans_true": 2
+      },
+      {
+        "ques": "It was one of the most exciting matches ….. ",
+        "ans_a": "A.to watch",
+        "ans_b": "B.watch",
+        "ans_c": "C.watching ",
+        "ans_d": "D.watched ",
+        "ans_true": 1
+      },
+      {
+        "ques": "She would like …….. the answer. ",
+        "ans_a": "A.that she knows",
+        "ans_b": "B. to know",
+        "ans_c": "C.knowing ",
+        "ans_d": "D. that knows ",
+        "ans_true": 2
+      },
+      {
+        "ques": "It’s time for you ………….. a new TV. Yours is out of date. ",
+        "ans_a": "A.to buy",
+        "ans_b": "B.buy",
+        "ans_c": "C.buying ",
+        "ans_d": "D.bought ",
+        "ans_true": 1
+      },
+      {
+        "ques": "If you want to learn English well you have to ………. hard working",
+        "ans_a": "A.being ",
+        "ans_b": "B.been ",
+        "ans_c": "C.be ",
+        "ans_d": "D.for being",
+        "ans_true": 3
+      },
+      {
+        "ques": "To my ………., John is very good at Vietnamese.",
+        "ans_a": "A.amazing ",
+        "ans_b": "B.amazed ",
+        "ans_c": "C.amaze ",
+        "ans_d": "D.amazement ",
+        "ans_true": 4
+      }
+    ]
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 6,
+    "time": 60,
+    "questions": [
+      {
+        "ques": "This movie is the most ………",
+        "ans_a": "A.entertaining ",
+        "ans_b": "B.entertained ",
+        "ans_c": "C.entertain ",
+        "ans_d": "D.entertainment ",
+        "ans_true": 1
+      },
+      {
+        "ques": "He is proud of his ……….",
+        "ans_a": "A.succeed ",
+        "ans_b": "B.success ",
+        "ans_c": "C.successful ",
+        "ans_d": "D.successfully ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Nobody likes him because he is ………..",
+        "ans_a": "A.pleased ",
+        "ans_b": "B.pleasure ",
+        "ans_c": "C.pleasant ",
+        "ans_d": "D.unpleasant ",
+        "ans_true": 4
+      },
+      {
+        "ques": "AIDS has caused a great number of ……",
+        "ans_a": "A.die ",
+        "ans_b": "B.death ",
+        "ans_c": "C.dying ",
+        "ans_d": "D.dead ",
+        "ans_true": 2
+      },
+      {
+        "ques": "His ……. was surprising",
+        "ans_a": "A.arrive ",
+        "ans_b": "B.arrived ",
+        "ans_c": "C.arriver ",
+        "ans_d": "D.arrival ",
+        "ans_true": 4
+      },
+      {
+        "ques": "The disco was so …. .. that you couldn’t hear yourself speak.",
+        "ans_a": "A.noise ",
+        "ans_b": "B.noisy ",
+        "ans_c": "C.noisily ",
+        "ans_d": "D.nosiest ",
+        "ans_true": 2
+      },
+      {
+        "ques": " I don’t think we have enough food because there are some …………guests.",
+        "ans_a": "A.expect ",
+        "ans_b": "B.expected ",
+        "ans_c": "C.unexpected ",
+        "ans_d": "D.unexpectedly ",
+        "ans_true": 3
+      },
+      {
+        "ques": " ……., he won a lot of money in a lottery. ",
+        "ans_a": "A.luck ",
+        "ans_b": "B.unlucky ",
+        "ans_c": "C.lucky ",
+        "ans_d": "D.luckily ",
+        "ans_true": 4
+      },
+      {
+        "ques": " I ………. the course because it is interesting",
+        "ans_a": "A.enjoyment ",
+        "ans_b": "B.enjoy ",
+        "ans_c": "C.enjoyable ",
+        "ans_d": "D.enjoying ",
+        "ans_true": 2
+      },
+      {
+        "ques": " We have ……. in his ability. ",
+        "ans_a": "A.confident ",
+        "ans_b": "B.confidently ",
+        "ans_c": "C.confidence ",
+        "ans_d": "D.confidential ",
+        "ans_true": 3
+      },
+      {
+        "ques": " ………. more about her, you would change your opinion ",
+        "ans_a": "A. If you know",
+        "ans_b": "B. If you did know",
+        "ans_c": "C. If you knew",
+        "ans_d": "D.If did you know ",
+        "ans_true": 3
+      },
+      {
+        "ques": "……… I was a child, I used to play football. ",
+        "ans_a": "A.As soon as",
+        "ans_b": "B. While",
+        "ans_c": "C.When ",
+        "ans_d": "D.If",
+        "ans_true": 3
+      },
+      {
+        "ques": "Tay Bac university ……. in Son la town for two years.",
+        "ans_a": "A.was built",
+        "ans_b": "B. is built",
+        "ans_c": "C.have been built",
+        "ans_d": "D.has been built ",
+        "ans_true": 4
+      },
+      {
+        "ques": " Chewing gum ………… in Sweden in 1993.",
+        "ans_a": "A. was invented",
+        "ans_b": "B. is invented",
+        "ans_c": "C.. has been invented ",
+        "ans_d": "D.invented ",
+        "ans_true": 1
+      },
+      {
+        "ques": "I’ll phone you ……………….. I come. ",
+        "ans_a": "A.while ",
+        "ans_b": "B.until ",
+        "ans_c": "C.as soon as",
+        "ans_d": "D.because ",
+        "ans_true": 3
+      },
+      {
+        "ques": " If we ……... have computer, our lives ………. boring. ",
+        "ans_a": "A.don’t/ will be",
+        "ans_b": "B. won’t have/ are ",
+        "ans_c": "C.didn’t/ would",
+        "ans_d": "D.wouldn’t/ were",
+        "ans_true": 1
+      },
+      {
+        "ques": "“The Wall” ….. when all the members were students.",
+        "ans_a": "A.founded ",
+        "ans_b": "B.was founded",
+        "ans_c": "C.has been founded",
+        "ans_d": "D. founded",
+        "ans_true": 2
+      },
+      {
+        "ques": " If he worked harder, he ………….",
+        "ans_a": "A.will be promoted",
+        "ans_b": "B. will have been promoted",
+        "ans_c": "C.had been promoted ",
+        "ans_d": "D. would be promoted",
+        "ans_true": 4
+      },
+      {
+        "ques": "All students at Tay Bac university ……… uniforms on Monday.",
+        "ans_a": "A.are asked to wear",
+        "ans_b": "B.ask to wear",
+        "ans_c": "C.asked to wear ",
+        "ans_d": "D.to asked wearing",
+        "ans_true": 1
+      },
+      {
+        "ques": "I hate …. ….the washing up.",
+        "ans_a": "A.taking ",
+        "ans_b": "B.doing ",
+        "ans_c": "C.getting ",
+        "ans_d": "D.making ",
+        "ans_true": 2
+      },
+      {
+        "ques": "She does not know what to do when her parents …….. a complaint to her.",
+        "ans_a": "A.make",
+        "ans_b": "B.give",
+        "ans_c": "C.keep",
+        "ans_d": "D.tell",
+        "ans_true": 1
+      },
+      {
+        "ques": " I was late because I ……… the bus",
+        "ans_a": "A.left",
+        "ans_b": "B.lost",
+        "ans_c": "C.missed",
+        "ans_d": "D.forgot",
+        "ans_true": 3
+      },
+      {
+        "ques": " We never believe in him, he always ….. lies.",
+        "ans_a": "A.says ",
+        "ans_b": "B.makes",
+        "ans_c": "C.tells",
+        "ans_d": "D.give",
+        "ans_true": 3
+      },
+      {
+        "ques": "Rice is ………….. in China ",
+        "ans_a": "A.made ",
+        "ans_b": "B.makes ",
+        "ans_c": "C.done ",
+        "ans_d": "D.grown ",
+        "ans_true": 4
+      },
+      {
+        "ques": "“New headway ” is ……textbook I’ve ever learned. ",
+        "ans_a": "A.more interesting",
+        "ans_b": "B.as more interesting",
+        "ans_c": "C.the most interesting ",
+        "ans_d": "D.as interesting as ",
+        "ans_true": 3
+      },
+      {
+        "ques": " Her life becomes ……. than it was before..",
+        "ans_a": "A.more happy",
+        "ans_b": "B.as happy",
+        "ans_c": "C.happier ",
+        "ans_d": "D.the happiest",
+        "ans_true": 3
+      },
+      {
+        "ques": "China is getting richer and ………",
+        "ans_a": "A.more powerful",
+        "ans_b": "B.powerful ",
+        "ans_c": "C.powerfuler",
+        "ans_d": "D.the most powerful ",
+        "ans_true": 1
+      },
+      {
+        "ques": " Charles Chaplin made many of the funniest and …….. popular films of his time.",
+        "ans_a": "A.more ",
+        "ans_b": "B.most",
+        "ans_c": "C.the more ",
+        "ans_d": "D.the more",
+        "ans_true": 3
+      },
+      {
+        "ques": " She ………..staying at home to going out.",
+        "ans_a": "A.likes ",
+        "ans_b": "B. ‘d like",
+        "ans_c": "C.prefers ",
+        "ans_d": "D.loves ",
+        "ans_true": 3
+      },
+      {
+        "ques": "Mary and John ………… absent yesterday. ",
+        "ans_a": "A.were",
+        "ans_b": "B.as",
+        "ans_c": "C.are",
+        "ans_d": "D.is",
+        "ans_true": 1
+      },
+      {
+        "ques": " Look! The boy …… at the desk is Mary’s boyfriend.",
+        "ans_a": "A.stand ",
+        "ans_b": "B.stands",
+        "ans_c": "C.standing ",
+        "ans_d": "D.stood ",
+        "ans_true": 3
+      },
+      {
+        "ques": "I have not written any letters home since I ……… here ",
+        "ans_a": "A.come ",
+        "ans_b": "B.came",
+        "ans_c": "C.have come ",
+        "ans_d": "D.will come ",
+        "ans_true": 2
+      },
+      {
+        "ques": " Europe and Asia ……….. a long tradition of teaching and learning foreign languages",
+        "ans_a": "A.has had",
+        "ans_b": "B.will have",
+        "ans_c": "C. have had ",
+        "ans_d": "D.have ",
+        "ans_true": 3
+      },
+      {
+        "ques": " They had a big party. They ……….. a lot last night. ",
+        "ans_a": "A.are singing",
+        "ans_b": "B.were singing",
+        "ans_c": "C.sang ",
+        "ans_d": "D.are going to sing ",
+        "ans_true": 3
+      },
+      {
+        "ques": "Your eyes are red. ……….. ?  ",
+        "ans_a": "A. Do you cry",
+        "ans_b": "B.Will you cry",
+        "ans_c": "C. Did you cry",
+        "ans_d": "D.Have you cried",
+        "ans_true": 4
+      },
+      {
+        "ques": "In the early 1800s, only Britain ….. though the industrial revolution",
+        "ans_a": "A.goes ",
+        "ans_b": "B.went ",
+        "ans_c": "C.has gone",
+        "ans_d": "D.would go",
+        "ans_true": 2
+      },
+      {
+        "ques": " He does not save as much money as he ……… last year.",
+        "ans_a": "A.does ",
+        "ans_b": "B.did used",
+        "ans_c": "C.did ",
+        "ans_d": "D.uses ",
+        "ans_true": 3
+      },
+      {
+        "ques": " They ……… to Sapa next holiday. ",
+        "ans_a": "A.will go",
+        "ans_b": "B.go",
+        "ans_c": "C.are going to",
+        "ans_d": "D.goes",
+        "ans_true": 2
+      },
+      {
+        "ques": "I don’t think life ……. better in the future. ",
+        "ans_a": "A.won’t ",
+        "ans_b": "B. will be",
+        "ans_c": "C.be",
+        "ans_d": "D.is",
+        "ans_true": 4
+      },
+      {
+        "ques": "It’s the best film ………… You should go and see it. ",
+        "ans_a": "A.I ever saw",
+        "ans_b": "B.I’ve see",
+        "ans_c": "C. I’ve never seen",
+        "ans_d": "D. I’ve ever seen",
+        "ans_true": 4
+      }
+    ]
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 7,
+    "time": 60,
+    "questions": []
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 8,
+    "time": 60,
+    "questions": []
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 9,
+    "time": 60,
+    "questions": []
+  },
+  {
+    "subject": "Tiếng Anh",
+    "exam_num": 10,
+    "time": 60,
+    "questions": []
   }
 ]

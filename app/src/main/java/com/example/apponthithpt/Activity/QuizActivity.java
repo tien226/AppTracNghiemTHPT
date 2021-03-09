@@ -439,7 +439,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
 
         HighScore highScoresMax = mHighScores.get(0);
 
-        //Sort dư liệu theo ngày làm bài thi
+        //Sort dữ liệu theo ngày làm bài thi
         Collections.sort(mHighScores, new Comparator<HighScore>() {
             @Override
             public int compare(HighScore o1, HighScore o2) {

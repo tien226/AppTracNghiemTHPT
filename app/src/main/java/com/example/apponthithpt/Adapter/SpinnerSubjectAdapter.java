@@ -46,9 +46,9 @@ public class SpinnerSubjectAdapter extends ArrayAdapter<Subject> {
         Subject currentSubject = getItem(position);
         if (currentSubject != null) {
             ivSubjectSpinner.setImageResource(Common.getId(currentSubject.mIcon, R.drawable.class));
-            ivSubjectSpinner.setColorFilter(Color.BLUE);
+            ivSubjectSpinner.setColorFilter(Color.BLACK);
             tvSubjectSpinner.setText(currentSubject.mName);
-            tvSubjectSpinner.setTextColor(Color.BLUE);
+//            tvSubjectSpinner.setTextColor(Color.BLUE);
         }
         return convertView;
     }

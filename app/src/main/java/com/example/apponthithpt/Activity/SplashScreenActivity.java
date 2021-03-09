@@ -58,6 +58,18 @@ public class SplashScreenActivity extends AppCompatActivity {
         sixth.setAnimation(topanimation);
 
 
+        //notification app
+        creatNotificationChannel();
+
+        Intent intent = new Intent(getApplicationContext(), AlarmReceiver.class);
+        PendingIntent pendingIntent = PendingIntent.getBroadcast(getApplicationContext(), 0, intent, 0);
+
+        AlarmManager alarmManager = (AlarmManager) getSystemService(ALARM_SERVICE);
+
+        long tenSecondsMillis = 1000 * 15;
+        alarmManager.set(AlarmManager.RTC_WAKEUP, System.currentTimeMillis() + tenSecondsMillis, pendingIntent);
+
+
         Thread splashThread = new Thread() {
             @Override
             public void run() {
@@ -82,5 +94,18 @@ public class SplashScreenActivity extends AppCompatActivity {
 //            }
 //        },Splash_Time_Out);
 
+    }
+
+    private void creatNotificationChannel() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            CharSequence name = "Important Notification";
+            String description = "Channel for important notification";
+            int importance = NotificationManager.IMPORTANCE_DEFAULT;
+            NotificationChannel channel = new NotificationChannel("notifylenbit", name, importance);
+            channel.setDescription(description);
+
+            NotificationManager notificationManager = getSystemService(NotificationManager.class);
+            notificationManager.createNotificationChannel(channel);
+        }
     }
 }

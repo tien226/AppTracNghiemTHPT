@@ -14,47 +14,47 @@
 
         <View
             android:id="@+id/first_line"
-            android:layout_width="20sp"
-            android:layout_height="50sp"
+            android:layout_width="20dp"
+            android:layout_height="50dp"
             android:background="@drawable/black_line"
             android:layout_centerHorizontal="true"/>
 
         <View
             android:id="@+id/second_line"
-            android:layout_width="20sp"
-            android:layout_height="100sp"
+            android:layout_width="20dp"
+            android:layout_height="100dp"
             android:layout_marginLeft="8sp"
             android:background="@drawable/red_line"
             android:layout_toRightOf="@+id/first_line"/>
 
         <View
             android:id="@+id/third_line"
-            android:layout_width="20sp"
-            android:layout_height="250sp"
+            android:layout_width="20dp"
+            android:layout_height="250dp"
             android:layout_marginLeft="8sp"
             android:background="@drawable/black_line"
             android:layout_toRightOf="@+id/second_line"/>
 
         <View
             android:id="@+id/fourth_line"
-            android:layout_width="20sp"
-            android:layout_height="200sp"
+            android:layout_width="20dp"
+            android:layout_height="200dp"
             android:layout_marginLeft="8sp"
             android:background="@drawable/red_line"
             android:layout_toRightOf="@+id/third_line"/>
 
         <View
             android:id="@+id/fifth_line"
-            android:layout_width="20sp"
-            android:layout_height="220sp"
+            android:layout_width="20dp"
+            android:layout_height="220dp"
             android:layout_marginLeft="8sp"
             android:background="@drawable/green_line"
             android:layout_toRightOf="@+id/fourth_line"/>
 
         <View
             android:id="@+id/sixth_line"
-            android:layout_width="20sp"
-            android:layout_height="150sp"
+            android:layout_width="20dp"
+            android:layout_height="150dp"
             android:layout_marginLeft="8sp"
             android:background="@drawable/white_line"
             android:layout_toRightOf="@+id/fifth_line"/>
@@ -69,7 +69,7 @@
             android:id="@+id/imglogo_SS"
             android:src="@drawable/logo_app"
             android:layout_width="match_parent"
-            android:layout_height="240sp"/>
+            android:layout_height="240dp"/>
 
     </RelativeLayout>
 
@@ -92,7 +92,7 @@
                 android:textSize="24sp"
                 android:textColor="#1f1f1d"
                 android:layout_centerHorizontal="true"
-                android:layout_marginBottom="48sp"
+                android:layout_marginBottom="48dp"
                 android:fontFamily="cursive"/>
         </RelativeLayout>
 
